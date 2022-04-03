@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBXny3pwSOFDUPDlt2aNDKsvhXiX2uWglN38QQKy51Z/gJW7gRjwOm9fYqTUE0d/he0MLxkGEN7vjg3PQynJGA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\luzhn\\source\\repos\\Lab2Test\\Lab2Test\\Lab2Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luzhn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
